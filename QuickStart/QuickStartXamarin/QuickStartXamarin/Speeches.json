@@ -1,0 +1,338 @@
+[
+    {
+      "speaker":
+        {
+          "SpeakerName": "Євген Пінкаль",
+          "Avatar": "http://www.msproadshow.org/images/speaker/8.jpg",
+          "SpeakerDescription": "MSP, MCP, JavaScript розробник в повному розквіті сил, до того ще й талановитий! :)",
+          "SpeakerId": 8
+        },
+      "Name": "",
+      "Topic": "Quick start into Mixed Reality world",
+      "Type": "Microsoft HoloLens",
+      "Descriprion": "Лекція",
+      "Id": 0
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Дмитро Жлуктенко",
+          "Avatar": "http://www.msproadshow.org/images/speaker/11.jpg",
+          "SpeakerDescription": "Microsoft Student Partner, студент Львівської Політехніки, .NET розробник в компанії Euristiq, адепт функціонального програмування, багато пишу про програмування.",
+          "SpeakerId": 1
+        },
+      "Name": "Практичне використання Microsoft Bot Framework",
+      "Topic": "Practical use of Microsoft Bot Framework",
+      "Type": "Лекція",
+      "Descriprion": "Ви вже щось чули про Microsoft Bot Framework, але поки не певні в його можливостях? Сумніваєтесь, чи можна трансформувати ваш додаток в чат-бота? Приходьте на доповідь Дмитра і дізнайтеся про реальні проекти з нуля на Microsoft Bot Framework!",
+      "Id": 1
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Дмитро Жлуктенко",
+          "Avatar": "http://www.msproadshow.org/images/speaker/11.jpg",
+          "SpeakerDescription": "Microsoft Student Partner, студент Львівської Політехніки, .NET розробник в компанії Euristiq, адепт функціонального програмування, багато пишу про програмування.",
+          "SpeakerId": 1
+        },
+      "Name": "C# 7.x-8.0: що за?",
+      "Topic": "C# 7.x-8.0: what?",
+      "Type": "Лекція",
+      "Descriprion": "C# зараз дуже динамічно змінюється, іноді буває навіть важко встежити - що ж вони там знову додали? Про це ми і поговоримо разом з Дмитром - C# 7.0, 7.1, 7.2, 8.0, подальший роадмап та стратегія для розвитку найпопулярнішої мови на .NET платформі. Приходьте і вже наступного дня пишіть найсучасніший код!",
+      "Id": 2
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Дмитро Жлуктенко",
+          "Avatar": "http://www.msproadshow.org/images/speaker/11.jpg",
+          "SpeakerDescription": "Microsoft Student Partner, студент Львівської Політехніки, .NET розробник в компанії Euristiq, адепт функціонального програмування, багато пишу про програмування.",
+          "SpeakerId": 1
+        },
+      "Name": "Ловля і обробка покемонів в .NET",
+      "Topic": "Pokemon catching & handling in .NET",
+      "Type": "Лекція",
+      "Descriprion": "Грали колись в Pokemon Go? Дмитро працює фуллтайм .NET розробником і ловить покемонів в коді щодня! І при цьому він узагальнив кілька основних стратегій для обробки виключень і кілька цікавих фактів про виключення в .NET та їх поведінку. Хочете знати більше? Обов'язково відвідайте його доповідь :)",
+      "Id": 3
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Дмитро Жлуктенко",
+          "Avatar": "http://www.msproadshow.org/images/speaker/11.jpg",
+          "SpeakerDescription": "Microsoft Student Partner, студент Львівської Політехніки, .NET розробник в компанії Euristiq, адепт функціонального програмування, багато пишу про програмування.",
+          "SpeakerId": 1
+        },
+      "Name": "Rider IDE для .NET розробника",
+      "Topic": "Rider IDE for .NET developer",
+      "Type": "Лекція",
+      "Descriprion": "Нещодавно JetBrains анонсували свою власну IDE для .NET розробників - Rider IDE, яка поєднала два найкращі продукти від JetBrains - IntelliJ IDEA‎ та ReSharper. Набридла зависаюча студія? Хочете ковток свіжого повітря в full-microsoft екосистемі? Тоді ця доповідь точно для вас!",
+      "Id": 4
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Олексій Манойло",
+          "Avatar": "http://www.msproadshow.org/images/speaker/6.jpg",
+          "SpeakerDescription": "MSP, .NET разработчик в компании Andersenlab. Интересуюсь .NET C#/F# разработкой, а также веб и облачными технологиями.",
+          "SpeakerId": 2
+        },
+      "Name": "Сравнение разработки кросс-платформенной  мобильный приложений между Xamarin и Ionic2",
+      "Topic": "Xamarin/Ionic/Azure",
+      "Type": "Майстер-Клас",
+      "Descriprion": "",
+      "Id": 5
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Ілля Лубенець",
+          "Avatar": "http://www.msproadshow.org/images/speaker/10.jpg",
+          "SpeakerDescription": "MSP, .NET розробник в компанії Developex. Фанат розробки розподілених систем.",
+          "SpeakerId": 5
+        },
+      "Name": "Bot Framework. Вирости свого бота в Azure",
+      "Topic": "Bot framework. Bring up your own bot.",
+      "Type": "Майстер-Клас",
+      "Descriprion": "Поговоримо про можливості використвння ботів, інструменти необхідні для створення бота. Напишемо власного бота з використанням .net core і запаблішимо в Azure Container Service",
+      "Id": 6
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Андрій Чебукін",
+          "Avatar": "http://www.msproadshow.org/images/speaker/2.jpg",
+          "SpeakerDescription": "Ленивая задница в Secret Circle Solution.",
+          "SpeakerId": 9
+        },
+      "Name": "Збирєте .NET проект вручну? Досить! Хуяк-хуяк і готово...",
+      "Topic": "",
+      "Type": "Майстер-Клас",
+      "Descriprion": "",
+      "Id": 7
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Кирило Безпалий",
+          "Avatar": "http://www.msproadshow.org/images/speaker/3.jpg",
+          "SpeakerDescription": "MSP, Back-end .Net розробник. Мавпочка по написанню коду.",
+          "SpeakerId": 7
+        },
+      "Name": "Програмування зі швидкістю думки.",
+      "Topic": "C# speed programming",
+      "Type": "Лекція",
+      "Descriprion": "Ніколи не засікали скільки часу ви витрачаєте на написання нудних класів і однакових шматків коду? Якщо вас це бісить, тоді ви дізнаєтесь багато цікавого по темі кодогенерації в дотнеті :-)",
+      "Id": 8
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Кирило Безпалий",
+          "Avatar": "http://www.msproadshow.org/images/speaker/3.jpg",
+          "SpeakerDescription": "MSP, Back-end .Net розробник. Мавпочка по написанню коду.",
+          "SpeakerId": 7
+        },
+      "Name": "ORM чи не ORM? Ось у чому питання.",
+      "Topic": "ORM or not ORM. That is a question.",
+      "Type": "Лекція",
+      "Descriprion": "Все мы знаем что ORM помогают нам в нашей повседневной работе с реляционными (и не только) базами данных. Но всегда ли это, и как быть когда это не так? В докладе пойдет речь о темной стороне ORM и что мы можем с этим сделать.",
+      "Id": 9
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Кирило Безпалий",
+          "Avatar": "http://www.msproadshow.org/images/speaker/3.jpg",
+          "SpeakerDescription": "MSP, Back-end .Net розробник. Мавпочка по написанню коду.",
+          "SpeakerId": 7
+        },
+      "Name": "Основи Sql Server Integration Services",
+      "Topic": "Introduction into SSIS",
+      "Type": "Лекція",
+      "Descriprion": "Чи часто вам треба інтегрувати декілька систем у якусь іншу? Якщо так або Вам взагалі цікава тема інтеграції та обробки данних тоді запрошую на свою доповідь про Sql Server Integration Services",
+      "Id": 10
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Кирило Безпалий",
+          "Avatar": "http://www.msproadshow.org/images/speaker/3.jpg",
+          "SpeakerDescription": "MSP, Back-end .Net розробник. Мавпочка по написанню коду.",
+          "SpeakerId": 7
+        },
+      "Name": "Поговоримо про DDD",
+      "Topic": "Let's talk about DDD",
+      "Type": "Лекція",
+      "Descriprion": "Коротко і без зайвих розсюсюкувать що таке Domain Driven Development і чим це допоможе Вам у розробці вашого рішення",
+      "Id": 11
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Кірілл Статівкін",
+          "Avatar": "http://www.msproadshow.org/images/speaker/1.jpg",
+          "SpeakerDescription": "MSP, Xamarin - консультант в компанії Cellenza, мобiльний розробник до мозку кiсток, впевненний що .Net врятує Всесвiт.",
+          "SpeakerId": 10
+        },
+      "Name": "Xamarin нативний чи Xamarin.Fomrs",
+      "Topic": "Xamarin: Native VS Forms",
+      "Type": "Лекція",
+      "Descriprion": "Forms чи Native, що обрати для мого проекту та в чому такi рiзниця? Розглянемо у яких випадках краще обрати Xamarin.Forms а у яких вистачить тiлькi Xamarin Native та в чому мiж ними рiзниця.",
+      "Id": 12
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Кірілл Статівкін",
+          "Avatar": "http://www.msproadshow.org/images/speaker/1.jpg",
+          "SpeakerDescription": "MSP, Xamarin - консультант в компанії Cellenza, мобiльний розробник до мозку кiсток, впевненний що .Net врятує Всесвiт.",
+          "SpeakerId": 10
+        },
+      "Name": "Пiд копотом: Xamarin",
+      "Topic": "Xamarin underhood",
+      "Type": "Лекція",
+      "Descriprion": "Багатоцилiндровий двигун Mono та як саме вiн дозволяє розробляти на .Net для iOS та Android.",
+      "Id": 13
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Кірілл Статівкін",
+          "Avatar": "http://www.msproadshow.org/images/speaker/1.jpg",
+          "SpeakerDescription": "MSP, Xamarin - консультант в компанії Cellenza, мобiльний розробник до мозку кiсток, впевненний що .Net врятує Всесвiт.",
+          "SpeakerId": 10
+        },
+      "Name": "Xamarin.Forms: Швидкий старт",
+      "Topic": "Xamarin.Forms: Quick start",
+      "Type": "Майстер-Клас",
+      "Descriprion": "Розробимо перший Hello Xamarin World додаток розглянемо iнструментарiй та середу розробки кросплатформених додаткiв за допомогою .Net Framework",
+      "Id": 14
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Максим Власов",
+          "Avatar": "http://www.msproadshow.org/images/speaker/4.jpg",
+          "SpeakerDescription": "Junior DevOps Engineer в PDFfiller. Співзасновник найбільшого студентського ІТ-ком’юніті в Україні - ІТ КПІ. Пишу на всьому, на чому доведеться, найбільше люблю Python і NodeJS. На більшість цікавих мені конференцій ходжу в якості волонтера, якщо це можливо. Люблю їздити на велосипедах, особливо фізичних. Не люблю їх писати).",
+          "SpeakerId": 4
+        },
+      "Name": "Docker-compose, vagga і інші \"страшні\" слова",
+      "Topic": "Docker-compose, vagga and other \"horrible\" words",
+      "Type": "Лекція",
+      "Descriprion": "Що розглянемо:\n1. Docker - що це і чому його варто використовувати\n2. Docker-compose - як перестати плакати від довжелезних команд docker cli і почати жити",
+      "Id": 15
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Артем Войтович",
+          "Avatar": "http://www.msproadshow.org/images/speaker/9.jpg",
+          "SpeakerDescription": "MSP, Full-Stack .NET Developer at Honeycomb software, прихильник кроссплатформових додатків.",
+          "SpeakerId": 0
+        },
+      "Name": "Xamarin як нативний iнструмент розробки мобiльних додаткiв",
+      "Topic": "Xamarin as a native tool for mobile developement",
+      "Type": "Лекція",
+      "Descriprion": "Xamarin як нативний інструмент, розповім про основні переваги xamarin в загальному, розповім де він краще де гірше чим писать звичайні додатки на Java, покажу демо додаток, покажу різні    графіки порівняння бенчмарки тощо",
+      "Id": 16
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Андрій Чебукін",
+          "Avatar": "http://www.msproadshow.org/images/speaker/2.jpg",
+          "SpeakerDescription": "Ленивая задница в Secret Circle Solution.",
+          "SpeakerId": 9
+        },
+      "Name": "Від прозорості до вражаючого UX з UWP",
+      "Topic": "From acrylic trasparancy to immersive UX with UWP",
+      "Type": "Майстер-Клас",
+      "Descriprion": "Мабуть ти пам'ятаєш ті спецефекти, які прийшли з Windows Vista і були вподобані у Windows 7. Заради енергоефективності у Windows 8 вони зникли. Але прийшов час повернути круті спецефекти кращі ніж в iOS! Давай же розберемося як зробити твій Windows 10 застосунок сяючим і неперевершеним.",
+      "Id": 17
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Андрій Чебукін",
+          "Avatar": "http://www.msproadshow.org/images/speaker/2.jpg",
+          "SpeakerDescription": "Ленивая задница в Secret Circle Solution.",
+          "SpeakerId": 9
+        },
+      "Name": "З F# і лаби можна здавати й сайт свій написати",
+      "Topic": "Pass a lab or build a site with F#, whatever!",
+      "Type": "Майстер-Клас",
+      "Descriprion": "Якщо перед тобою постала задача як швиденько реалізувати алгоритм і не манатися з відлагодженням, то кращого варінту за F# ти не знайдеш. Для тебе є й продуктивні засоби розробки та усі необхідні бібліотеки. Давай спробуємо на прикладі створення інтерактивного конспекту та візуалізуємо набір даних.",
+      "Id": 18
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Дмитро Павленко",
+          "Avatar": "http://www.msproadshow.org/images/speaker/7.jpg",
+          "SpeakerDescription": "MSP, Software Engineer, прихильник розробки багатосервісних додатків, а також фанат Go та Rust.",
+          "SpeakerId": 3
+        },
+      "Name": "Redux в реальному світі. Розгляд принципів на базі Angular 4 та React.",
+      "Topic": "Redux in real world. Review of implementation in Angular 4 and React.",
+      "Type": "Лекція",
+      "Descriprion": "Доповідь передбачає розгляд базових прийомів для побудови сучасних клієнтських веб-додатків. Буде розглянуто порівняння найбільш доцільних архітектур для побудови, а також розберемо переваги та недоліки у порівнянні з Redux на сучасних фреймворках React та Angular 4. ",
+      "Id": 18
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Антон Долгополов",
+          "Avatar": "http://www.msproadshow.org/images/speaker/12.jpg",
+          "SpeakerDescription": "Закончил КНУ им. Тараса Шевченка, получив бакалавра по специальности 'Компьютерная инженерия'. Участник Garage48 & Media Hack Weekend. Выпускник первой инкубационной программы в Open Data Incubator 1991. Full-stack Developer (.NET) в Brockhaus AG.",
+          "SpeakerId": 12
+        },
+      "Name": "Декораторы и наследование в Angular 2",
+      "Topic": "Decorators and inheritance in Angular 2",
+      "Type": "Майстер-Клас",
+      "Descriprion": "Мы рассмотрим основные элементы для создания SPA-приложения в Angular 2: Component & Services. Также будут показаны особенности наследования в TypeScript, и пути решения нежелательного поведения посредством декораторов. В качестве демо будет показано создания пользовательской формы ввода с собственными функциями валидации данных.",
+      "Id": 19
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Тарас Середоха",
+          "Avatar": "http://www.msproadshow.org/images/speaker/5.jpg",
+          "SpeakerDescription": "Full stack розробник web сайтів на платформі .NET. Цікавиться хмарними технологіями та рішеннями в сфері IT transformation.",
+          "SpeakerId": 6
+        },
+      "Name": "Те що ви не знали про Visual Studio",
+      "Topic": "Things that you should know about Visual Studio",
+      "Type": "Лекція",
+      "Descriprion": "Хіт парад найменш відомих функцій Visual Studio. Дізнайтеся чому це IDE роками визнається найкращим.",
+      "Id": 20
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Ігор Леонт'єв",
+          "Avatar": "http://www.msproadshow.org/images/speaker/13.jpg",
+          "SpeakerDescription": "Microsoft Azure MVP. Засновник та iдейний натхненник MSP Roadshow.  Azure Arhitect and DevOps,ALM у VISEO Group. Франція.",
+          "SpeakerId": 11
+        },
+      "Name": "",
+      "Topic": "DevOps And Azure = Best Friends",
+      "Type": "Лекція/Майстер класс",
+      "Descriprion": "В докладе поговорим почему использование DevOps практик становится особенно актуальным при разработке облачных решений. Поговорим о различных  DevOps практиках и каким образом их внедрить. Все примеры будут с использованием активной Azure подписки и Visual Studio Team Services.",
+      "Id": 21
+    },
+    {
+      "speaker": 
+        {
+          "SpeakerName": "Ігор Леонт'єв",
+          "Avatar": "http://www.msproadshow.org/images/speaker/13.jpg",
+          "SpeakerDescription": "Microsoft Azure MVP. Засновник та iдейний натхненник MSP Roadshow.  Azure Arhitect and DevOps,ALM у VISEO Group. Франція.",
+          "SpeakerId": 11
+        },
+      "Name": "",
+      "Topic": "Building the RIGHT Azure Data Platform",
+      "Type": "Лекція",
+      "Descriprion": "Takl about Data platform Approach. Which services we need to choose when we start new Data Project. How to transfer and after process tonn of Data",
+      "Id": 22
+    }
+]

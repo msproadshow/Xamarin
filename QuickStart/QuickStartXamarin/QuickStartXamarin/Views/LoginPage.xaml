@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="QuickStartXamarin.Views.LoginPage" BackgroundColor="#648FBF">
+   <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="30">
+       <Image x:Name="logo_image" Source="logo.png" Scale="0.7"/>
+        <Label Text="Подключится" TextColor="White" HorizontalOptions="Center" FontSize="24"/>
+        <Entry x:Name="login_entry" Placeholder="Email" PlaceholderColor="#DF1C00" TextColor="White" BackgroundColor="#648FBF" HorizontalTextAlignment="Center" WidthRequest="300"  HorizontalOptions="Center"/>
+        <Entry x:Name="password_entry" Placeholder="Password" PlaceholderColor="#DF1C00" TextColor="White" BackgroundColor="#648FBF" HorizontalTextAlignment="Center" WidthRequest="300"  HorizontalOptions="Center"/>
+        <Button x:Name="login_button" Text="Приєднатися" BackgroundColor="#D6301B" TextColor="White" BorderRadius="20" Clicked="Handle_Clicked"/>
+    </StackLayout>
+</ContentPage>

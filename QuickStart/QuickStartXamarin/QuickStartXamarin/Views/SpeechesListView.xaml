@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="QuickStartXamarin.Views.SpeechesListView">
+    <ListView ItemTapped="Handle_ItemTapped" x:Name="list">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <Grid Padding="5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="20"></RowDefinition>
+                            <RowDefinition Height="20"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="4*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                        <Label Grid.Row="0" Grid.Column="1" Text="{Binding Name}" LineBreakMode="TailTruncation"></Label>
+                        <Label Grid.Row="1" Grid.Column="1" Text="{Binding Descriprion}" Font="Small"  TextColor="Gray" LineBreakMode="TailTruncation"></Label>
+                        <Image Grid.Column="0" Grid.RowSpan="2" Aspect="AspectFill">
+                            <Image.Source>
+                                <UriImageSource Uri="{Binding speaker.Avatar}" CachingEnabled="true" />
+                            </Image.Source>
+                        </Image>
+                    </Grid>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
