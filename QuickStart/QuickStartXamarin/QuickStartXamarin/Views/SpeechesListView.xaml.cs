@@ -14,7 +14,38 @@ namespace QuickStartXamarin.Views
         {
             InitializeComponent();
             ViewModel = new SpeechesListViewModel();
-            list.ItemsSource = ViewModel.Speeches;
+        }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+
+            if (list != null)
+                list.ItemsSource = ViewModel.Speeches;
+
+            if (ViewModel != null)
+                ViewModel.ShowSpeakerCommand.Executed += OnShowSpeaker;
+            
+        }
+
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+
+            if (list != null)
+                list.ItemsSource = null;
+
+            if (ViewModel != null)
+                ViewModel.ShowSpeakerCommand.Executed -= OnShowSpeaker;
+            
+            ViewModel = null;
+        }
+
+        private void OnShowSpeaker(object sender, Models.Speaker e)
+        {
+            var speaker = new SpeakerPage(e);
+            var page = new NavigationPage(speaker);
+
         }
 
         private void Handle_ItemTapped(object sender, Xamarin.Forms.ItemTappedEventArgs e)

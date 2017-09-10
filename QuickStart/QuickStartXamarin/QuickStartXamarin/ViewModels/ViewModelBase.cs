@@ -11,7 +11,7 @@ namespace QuickStartXamarin.ViewModels
 
         public event PropertyChangedEventHandler PropertyChanged;
 
-        protected object Parametr => _parameter;
+        public object Parametr => _parameter;
         private int _busyCounter;
 
        public ViewModelBase()
@@ -20,7 +20,7 @@ namespace QuickStartXamarin.ViewModels
         }
 
 		public void Start(object parameter = null)
-		{
+        {
 			if (IsBusy)
 				return;
 

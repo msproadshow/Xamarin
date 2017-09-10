@@ -19,6 +19,7 @@ namespace QuickStartXamarin.ViewModels
         {
             SelectedItemCommand = new SyncCommand<int>(SpeakerSelected);
             Speeches = new ObservableCollection<Speech>();
+            ShowSpeakerCommand = new ReverseCommand<Speaker>();
             LoadSpeeches();
         }
 

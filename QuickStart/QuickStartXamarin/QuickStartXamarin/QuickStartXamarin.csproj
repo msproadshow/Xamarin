@@ -38,6 +38,9 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Include="Speeches.json" />
+    <EmbeddedResource Include="Views\SpeakerPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -60,6 +63,10 @@
     </Compile>
     <Compile Include="Views\SpeechesListView.xaml.cs">
       <DependentUpon>SpeechesListView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\SpeakerViewModel.cs" />
+    <Compile Include="Views\SpeakerPage.xaml.cs">
+      <DependentUpon>SpeakerPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -51,7 +51,7 @@ namespace QuickStartXamarin.Views
 
         private void NavigateToListPage_Executed(object sender, string e)
         {
-            Navigation.PushModalAsync(new SpeechesListView());
+            Navigation.PushModalAsync( new NavigationPage (new SpeechesListView()));
         }
 
         void Handle_Clicked(object sender, System.EventArgs e)
